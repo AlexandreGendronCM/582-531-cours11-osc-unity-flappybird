@@ -183,8 +183,6 @@ public class GameManager : MonoBehaviour
 
         if (!isPlaying && (Input.GetKeyDown(KeyCode.Space) || Input.GetMouseButtonDown(0))) {
             Play();
-
-           
         }
 
        
